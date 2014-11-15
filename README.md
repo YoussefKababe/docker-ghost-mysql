@@ -1,7 +1,7 @@
 Ghost Dockerfile with MySQL support
 ===================================
 
-This image is based of [dockerfile/ghost](https://github.com/dockerfile/ghost), but adds support for MySQL!
+This image is based on [dockerfile/ghost](https://github.com/dockerfile/ghost), but adds support for MySQL!
 
 You can now configure your dockerized ghost blog to use a MySQL database instead of SQLite.
 
